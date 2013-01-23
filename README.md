@@ -1,2 +1,1 @@
-
-usage: ./aco_gen.py <#RGBHEX> <outputfile.aco>
+usage: `./aco_gen.py <#RGBHEX> <outputfile.aco>`
